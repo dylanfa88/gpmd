@@ -46,3 +46,7 @@ resolving the issue.
 ### Screenshot 3 (Performance with chat script with defer attribute)
 
 ![Screenshot 3](screenshots/Screenshot-with-script-and-defer-attribute.png "Performance with chat script with defer attribute")
+
+Solution visible here
+
+https://github.com/dylanfa88/gpmd/blob/ab0cb3fc8fcbc9ee49067e6322aa18a500382690/Frontend/index.html#L9
